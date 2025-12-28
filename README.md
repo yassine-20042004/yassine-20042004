@@ -8,7 +8,7 @@ As a software engineering student at EMSI, I thrive on building innovative digit
 
 * 🌍  I'm based in Tangier, Morocco
 * ✉️  You can contact me at [Yassinejanane71@gmail.com](mailto:Yassinejanane71@gmail.com)
-* 🧠  I'm learning Django, Java
+* 🧠  I'm learning SpringBoot, Java
 * 🤝  I'm open to collaborating on Innovative projects with strong market value
 * ⚡  My 'final\_final\_v2' folder says otherwise, but I swear I’m organized!
 
