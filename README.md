@@ -7,7 +7,6 @@ Web Developer and Software Engineer
 As a software engineering student at EMSI, I thrive on building innovative digital solutions that merge creativity with technical excellence. My expertise spans across full-stack development, cybersecurity, and artificial intelligence, with a strong foundation in React, Node.js, Laravel, and MySQL. Beyond coding, I am deeply engaged in problem-solving and optimization, whether it's developing smart logistics solutions or creating secure web applications. My experience in networking, database management, and penetration testing allows me to craft efficient and scalable software systems. What sets me apart? -A strategic mindset that blends technology with business needs. -A strong entrepreneurial spirit, leading me to develop digital products and explore startup ventures. -Proven ability to work in teams, manage projects, and deliver high-impact solutions. I am always eager to collaborate on groundbreaking projects, explore new technologies, and contribute to the ever-evolving tech landscape. If you’re looking for a driven, adaptable, and innovative software engineer, let’s connect!
 
 * 🌍  I'm based in Tangier, Morocco
-* ✉️  You can contact me at [Yassinejanane71@gmail.com](mailto:Yassinejanane71@gmail.com)
 * 🧠  I'm learning SpringBoot, Java
 * 🤝  I'm open to collaborating on Innovative projects with strong market value
 * ⚡  My 'final\_final\_v2' folder says otherwise, but I swear I’m organized!
