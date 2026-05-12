@@ -36,70 +36,12 @@ I'm a passionate engineering student driven by innovation, AI, and smart solutio
 - Built interactive components, implemented business logic in C#, integrated SQL Server database (modeling, queries, optimization)  
 - Participated in requirements analysis, testing, and technical documentation
 
----
-
-### 🚀 Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-------------|
-| **mehealth** | Android mobile app for medical cabin management | Java, Android Studio |
-| **E-commerce Laravel** | Full-featured online store (products, cart, orders, auth) | Laravel, PHP, MySQL |
-| **TeleClean.ma** | Platform connecting tenants with cleaning service providers | MERN (MongoDB, Express, React, Node.js) |
-
----
-
-### 🎓 Education
-
-| Year | Degree | Institution |
-|------|--------|-------------|
-| 2025–2026 | 4th year Computer Science & Networks | EMSI Tangier |
-| 2022 | Baccalaureate in Physical Sciences | Lycée Ibn Batouta, Tangier |
-
----
-
-### 📜 Certifications
-
-- Cisco (Network Technician Career Path)
-- Software Design & PM
-- Deloitte Data Analytics Job Simulation
-- LFD133: Introduction to WebAssembly
-- Machine Learning with Python
-
----
-
-### 🏆 Extracurricular Activities & Achievements
-
-| Role | Organization | Period |
-|------|-------------|--------|
-| President | Enactus EMSI Tangier | 2025–2026 |
-| Vice-President | Enactus EMSI Tangier | 2024–2025 |
-| Financial Officer | Enactus EMSI Tangier | 2023–2024 |
 
 **Achievements:**  
 - 🥈 2nd place – Best Speaker competition (finalist 3 times)  
 - 🥇 1st place – Hackathon ESmaroc, EMSI Tangier  
 - 🏆 Winner – AI for Impact Hackathon, UM6P Benguerir
 
----
-
-### 🗣️ Languages
-
-| Language | Level |
-|----------|-------|
-| Arabic | Native |
-| French | Fluent |
-| English | Fluent – 3 years at American Language Center |
-
----
-
-### 🧩 Interests
-
-- Social Entrepreneurship
-- Innovation & Emerging Tech
-- Sustainable Development
-- New Technologies
-
----
 
 ### 📫 Connect with Me
 
