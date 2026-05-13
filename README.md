@@ -48,7 +48,6 @@ I'm a passionate engineering student driven by innovation, AI, and smart solutio
 [![GitHub](https://img.shields.io/badge/GitHub-yassine--20042004-181717?style=flat&logo=github)](https://github.com/yassine-20042004)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine%20Janane-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yassine-janane-723568251/)
 [![Email](https://img.shields.io/badge/Email-yassine.jannane@emsi--edu.ma-EA4335?style=flat&logo=gmail)](mailto:yassine.jannane@emsi-edu.ma)
-[![Phone](https://img.shields.io/badge/Phone-%2B212621344402-25D366?style=flat&logo=whatsapp)](tel:+212621344402)
 
 ---
 
